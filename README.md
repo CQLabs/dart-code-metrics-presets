@@ -1,4 +1,4 @@
-[![Pub Version](https://img.shields.io/pub/v/dart_code_metrics?logo=dart&logoColor=white)](https://pub.dev/packages/dart_code_metrics/)
+[![Pub Version](https://img.shields.io/pub/v/dart_code_metrics_presets?logo=dart&logoColor=white)](https://pub.dev/packages/dart_code_metrics_presets/)
 [![License](https://img.shields.io/github/license/CQLabs/dart-code-metrics-presets)](https://github.com/CQLabs/dart-code-metrics-presets/blob/main/LICENSE)
 [![package publisher](https://img.shields.io/pub/publisher/dart_code_metrics.svg)](https://pub.dev/packages/dart_code_metrics/publisher)
 

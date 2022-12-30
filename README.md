@@ -2,9 +2,9 @@
 [![License](https://img.shields.io/github/license/CQLabs/dart-code-metrics-presets)](https://github.com/CQLabs/dart-code-metrics-presets/blob/main/LICENSE)
 [![package publisher](https://img.shields.io/pub/publisher/dart_code_metrics.svg)](https://pub.dev/packages/dart_code_metrics/publisher)
 
-# Dart Code Metrics presets
+# DCM Presets
 
-Dart Code Metrics is a static analysis tool that helps you analyse and improve your code quality. You can find all available lint rules [here](https://dartcodemetrics.dev/docs/rules).
+DCM is a static analysis tool that helps you analyse and improve your code quality. You can find all available lint rules [here](https://dartcodemetrics.dev/docs/rules).
 
 This repository contains a list of predefined presets for DCM:
 

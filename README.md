@@ -32,8 +32,8 @@ Take these steps to enable a preset:
 
    ```yaml
    dart_code_metrics:
-    extends:
-      - package:dart_code_metrics_presets/all.yaml
+     extends:
+       - package:dart_code_metrics_presets/all.yaml
    ```
 
 ## Disabling or reconfiguring a rule from the preset

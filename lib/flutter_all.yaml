@@ -14,3 +14,4 @@ dart_code_metrics:
     - prefer-extracting-callbacks
     - prefer-single-widget-per-file
     - prefer-using-list-view
+    - use-setstate-synchronously

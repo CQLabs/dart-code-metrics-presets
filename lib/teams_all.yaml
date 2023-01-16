@@ -1,0 +1,6 @@
+dart_code_metrics:
+  rules:
+    - avoid-unnecessary-nullable-return-type
+    - avoid-unrelated-type-casts
+    - format-test-name
+    - prefer-declaring-const-constructor

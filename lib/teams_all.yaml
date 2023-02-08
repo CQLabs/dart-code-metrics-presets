@@ -1,6 +1,16 @@
 dart_code_metrics:
   rules:
+    - avoid-collapsible-if
+    - avoid-explicit-type-declaration
+    - avoid-incomplete-copy-with
+    - avoid-nested-switches
+    - avoid-redundant-else
+    - avoid-self-assignment
+    - avoid-self-compare
+    - avoid-similar-names
     - avoid-unnecessary-nullable-return-type
     - avoid-unrelated-type-casts
     - format-test-name
+    - no-equal-switch-case
+    - no-equal-conditions
     - prefer-declaring-const-constructor

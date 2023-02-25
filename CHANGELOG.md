@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.0
+
+- feat: add a preset for Intl package.
+
 ## 1.2.0
 
 - feat: add presets for Flame rules and update the teams preset with new rules.

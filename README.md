@@ -4,13 +4,16 @@
 
 # DCM Presets
 
-DCM is a static analysis tool that helps you analyse and improve your code quality. You can find all available lint rules [here](https://dartcodemetrics.dev/docs/rules).
+DCM is a static analysis tool that helps you analyse and improve your code quality. You can find all available lint rules [here](https://dcm.dev/docs/individuals/rules).
 
 This repository contains a list of predefined presets for DCM:
 
 - **All:** contains all available lint rules for Dart and Flutter.
+- **Teams:**: contains all lint rules available only for the Teams version.
 - **Dart:** contains all lint rules applicable to any Dart app.
 - **Flutter:** contains all lint rules applicable to any Flutter app.
+- **Flame:** contains all lint rules for the Flame package.
+- **Intl:** contains all lint rules for the Intl package.
 
 ## How to use a preset
 
@@ -61,4 +64,4 @@ dart_code_metrics:
 
 ## Defining a custom preset
 
-Any other preset can be passed to the `extends` entry. To create a custom preset create a `yaml` file with the same structure as for regular [DCM configuration](https://dartcodemetrics.dev/docs/getting-started/configuration).
+Any other preset can be passed to the `extends` entry. To create a custom preset create a `yaml` file with the same structure as for regular [DCM configuration](https://dcm.dev/docs/individuals/configuration/).

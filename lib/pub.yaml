@@ -1,5 +1,5 @@
 dart_code_metrics:
-  rules:
+  pubspec-rules:
     - prefer-publish-to-none
     - prefer-correct-package-name
     - prefer-semver-version

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.1
+
+- fix: use correct config entry for Pub rules.
+
 ## 1.4.0
 
 - feat: add new Teams version rules.

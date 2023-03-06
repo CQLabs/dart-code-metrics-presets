@@ -1,0 +1,5 @@
+dart_code_metrics:
+  rules:
+    - avoid-incomplete-copy-with
+    - proper-super-calls
+    - add-copy-with

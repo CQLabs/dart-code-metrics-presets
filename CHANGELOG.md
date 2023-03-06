@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.0
+
+- feat: add new Teams version rules.
+
 ## 1.3.0
 
 - feat: add a preset for Intl package.

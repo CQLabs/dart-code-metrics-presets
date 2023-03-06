@@ -1,0 +1,7 @@
+dart_code_metrics:
+  rules:
+    - avoid-cubits
+    - avoid-bloc-public-methods
+    - avoid-passing-bloc-to-bloc
+    - prefer-multi-bloc-provider
+    - prefer-correct-bloc-provider

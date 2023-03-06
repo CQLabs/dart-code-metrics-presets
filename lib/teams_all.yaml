@@ -1,8 +1,13 @@
 dart_code_metrics:
   rules:
+    - avoid-long-parameter-list
+    - avoid-long-functions
+    - unnecessary-trailing-comma
+    - avoid-duplicate-named-imports
+    - avoid-shadowing
+    - prefer-return-await
     - avoid-collapsible-if
     - avoid-explicit-type-declaration
-    - avoid-incomplete-copy-with
     - avoid-nested-switches
     - avoid-redundant-else
     - avoid-self-assignment

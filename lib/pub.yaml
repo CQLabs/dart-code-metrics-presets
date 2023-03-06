@@ -1,0 +1,10 @@
+dart_code_metrics:
+  rules:
+    - prefer-publish-to-none
+    - prefer-correct-package-name
+    - prefer-semver-version
+    - avoid-dependency-overrides
+    - prefer-caret-version-syntax
+    - avoid-any-version
+    - prefer-correct-screenshots
+    - banned-dependencies

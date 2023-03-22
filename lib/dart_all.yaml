@@ -1,5 +1,6 @@
 dart_code_metrics:
   rules:
+    - avoid-substring
     - arguments-ordering
     - avoid-banned-imports
     - avoid-cascade-after-if-null

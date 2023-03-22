@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.0
+
+- feat: add new rules from 5.7.0.
+
 ## 1.4.1
 
 - fix: use correct config entry for Pub rules.

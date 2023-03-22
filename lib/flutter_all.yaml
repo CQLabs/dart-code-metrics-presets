@@ -1,5 +1,6 @@
 dart_code_metrics:
   rules:
+    - prefer-define-hero-tag
     - always-remove-listener
     - avoid-border-all
     - avoid-returning-widgets

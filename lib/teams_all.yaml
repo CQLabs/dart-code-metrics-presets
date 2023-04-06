@@ -19,3 +19,9 @@ dart_code_metrics:
     - no-equal-switch-case
     - no-equal-conditions
     - prefer-declaring-const-constructor
+    - prefer-explicit-parameter-names
+    - prefer-correct-switch-length
+    - avoid-equal-expressions
+    - avoid-declaring-call-method
+    - prefer-early-return
+    - avoid-missed-calls

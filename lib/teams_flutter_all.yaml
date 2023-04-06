@@ -3,3 +3,6 @@ dart_code_metrics:
     - avoid-incomplete-copy-with
     - proper-super-calls
     - add-copy-with
+    - dispose-fields
+    - avoid-empty-setstate
+    - prefer-widget-private-members

@@ -13,6 +13,7 @@ This repository contains a list of predefined presets for DCM:
 - **Dart:** contains all lint rules applicable to any Dart app.
 - **Flutter:** contains all lint rules applicable to any Flutter app.
 - **Flame:** contains all lint rules for the Flame package.
+- **Provider:** contains all lint rules for the Provider package.
 - **Intl:** contains all lint rules for the Intl package.
 - **Bloc:** contains all lint rules for the Bloc package.
 - **Equatable:** contains all lint rules for the Equatable package.

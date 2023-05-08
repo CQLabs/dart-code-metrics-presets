@@ -25,3 +25,14 @@ dart_code_metrics:
     - avoid-declaring-call-method
     - prefer-early-return
     - avoid-missed-calls
+    - avoid-redundant-pragma-inline
+    - prefer-unwrapping-future-or
+    - avoid-unnecessary-negations
+    - avoid-banned-file-names
+    - avoid-unused-generics
+    - avoid-inverted-boolean-checks
+    - avoid-banned-types
+    - function-always-returns-null
+    - prefer-visible-for-testing-on-members
+    - avoid-throw-objects-without-tostring
+    - avoid-unsafe-collection-methods

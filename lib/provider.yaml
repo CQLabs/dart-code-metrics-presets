@@ -1,0 +1,7 @@
+dart_code_metrics:
+  rules:
+    - avoid-watch-outside-build
+    - avoid-read-inside-build
+    - dispose-providers
+    - prefer-multi-provider
+    - avoid-instantiating-in-value-provider

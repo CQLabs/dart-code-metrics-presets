@@ -6,3 +6,8 @@ dart_code_metrics:
     - dispose-fields
     - avoid-empty-setstate
     - prefer-widget-private-members
+    - prefer-action-button-tooltip
+    - avoid-inherited-widget-in-initstate
+    - avoid-late-context
+    - avoid-state-constructors
+    - avoid-unnecessary-stateful-widgets

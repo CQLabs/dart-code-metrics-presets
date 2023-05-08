@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.0
+
+- feat: add new Teams version rules.
+
 ## 1.6.0
 
 - feat: add new Teams version rules.

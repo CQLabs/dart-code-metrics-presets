@@ -5,3 +5,4 @@ dart_code_metrics:
     - avoid-passing-bloc-to-bloc
     - prefer-multi-bloc-provider
     - prefer-correct-bloc-provider
+    - check-is-not-closed-after-async-gap

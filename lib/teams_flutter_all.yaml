@@ -11,3 +11,4 @@ dart_code_metrics:
     - avoid-late-context
     - avoid-state-constructors
     - avoid-unnecessary-stateful-widgets
+    - avoid-stateless-widget-initialized-fields

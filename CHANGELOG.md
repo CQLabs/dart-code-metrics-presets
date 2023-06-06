@@ -3,6 +3,7 @@
 ## 2.0.0
 
 - feat: merge Teams rules into Dart and Flutter presets.
+- feat: add new rules.
 
 ## 1.8.0
 

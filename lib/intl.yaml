@@ -3,3 +3,4 @@ dart_code_metrics:
     - prefer-intl-name
     - prefer-provide-intl-description
     - provide-correct-intl-args
+    - prefer-number-format

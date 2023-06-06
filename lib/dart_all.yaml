@@ -104,3 +104,7 @@ dart_code_metrics:
     - prefer-simpler-patterns-null-check
     - avoid-duplicate-patterns
     - prefer-returning-conditional-expressions
+    - avoid-unnecessary-return
+    - avoid-future-tostring
+    - avoid-unassigned-late-fields-keyword
+    - prefer-test-matchers

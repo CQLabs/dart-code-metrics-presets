@@ -108,3 +108,24 @@ dart_code_metrics:
     - avoid-future-tostring
     - avoid-unassigned-late-fields-keyword
     - prefer-test-matchers
+    - prefer-correct-future-return-type
+    - prefer-correct-stream-return-type
+    - avoid-nested-futures
+    - avoid-nested-streams-and-futures
+    - avoid-accessing-other-classes-private-members
+    - avoid-generics-shadowing
+    - avoid-uncaught-future-errors
+    - prefer-parentheses-with-if-null
+    - prefer-type-over-var
+    - avoid-keywords-in-wildcard-pattern
+    - avoid-misused-wildcard-pattern
+    - avoid-mutating-parameters
+    - avoid-unnecessary-call
+    - no-equal-nested-conditions
+    - avoid-negated-conditions
+    - prefer-correct-error-name
+    - map-keys-ordering
+    - avoid-unnecessary-futures
+    - avoid-shadowed-extension-methods
+    - avoid-barrel-files
+    - avoid-importing-entrypoint-exports

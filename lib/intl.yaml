@@ -4,3 +4,4 @@ dart_code_metrics:
     - prefer-provide-intl-description
     - provide-correct-intl-args
     - prefer-number-format
+    - prefer-date-format

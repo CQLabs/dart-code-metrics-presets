@@ -28,3 +28,6 @@ dart_code_metrics:
     - avoid-state-constructors
     - avoid-unnecessary-stateful-widgets
     - avoid-stateless-widget-initialized-fields
+    - avoid-missing-image-alt
+    - avoid-unnecessary-overrides-in-state
+    - prefer-dedicated-media-query-methods

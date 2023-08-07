@@ -4,7 +4,7 @@
 
 # DCM Presets
 
-DCM is a static analysis tool that helps you analyse and improve your code quality. You can find all available lint rules [here](https://dcm.dev/docs/rules).
+DCM is an advanced linter for Dart and Flutter that helps you analyse and improve your code quality. You can find all available lint rules [here](https://dcm.dev/docs/rules/).
 
 This repository contains a list of predefined presets for DCM:
 
@@ -16,6 +16,7 @@ This repository contains a list of predefined presets for DCM:
 - **Intl:** contains all lint rules for the Intl package.
 - **Bloc:** contains all lint rules for the Bloc package.
 - **Equatable:** contains all lint rules for the Equatable package.
+- **Patrol:** contains all lint rules for the Patrol package.
 - **Pub:** contains all lint rules for linting the `pubspec.yaml` files.
 
 ## How to use a preset

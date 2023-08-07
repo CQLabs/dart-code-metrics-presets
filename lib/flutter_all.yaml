@@ -31,3 +31,5 @@ dart_code_metrics:
     - avoid-missing-image-alt
     - avoid-unnecessary-overrides-in-state
     - prefer-dedicated-media-query-methods
+    - avoid-recursive-widget-calls
+    - prefer-text-rich

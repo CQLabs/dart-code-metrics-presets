@@ -1,0 +1,4 @@
+dart_code_metrics:
+  rules:
+    - prefer-custom-finder-over-find
+    - prefer-symbol-over-key

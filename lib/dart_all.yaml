@@ -132,3 +132,16 @@ dart_code_metrics:
     - avoid-double-slash-imports
     - avoid-unnecessary-conditionals
     - missing-test-assertion
+    - avoid-map-keys-contains
+    - prefer-correct-json-casts
+    - avoid-async-call-in-sync-function
+    - avoid-duplicate-mixins
+    - avoid-nullable-interpolation
+    - enum-constants-ordering
+    - prefer-named-boolean-parameters
+    - avoid-unused-instances
+    - prefer-correct-for-loop-increment
+    - prefer-public-exception-classes
+    - match-class-name-pattern
+    - newline-before-case
+    - avoid-unnecessary-reassignment

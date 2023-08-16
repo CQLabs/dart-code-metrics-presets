@@ -9,6 +9,7 @@ DCM is an advanced linter for Dart and Flutter that helps you analyse and improv
 This repository contains a list of predefined presets for DCM:
 
 - **All:** contains all available lint rules for Dart and Flutter.
+- **Recommended:** contains recommended Dart and Flutter rules (with an emphasis on finding errors).
 - **Dart:** contains all lint rules applicable to any Dart app.
 - **Flutter:** contains all lint rules applicable to any Flutter app.
 - **Flame:** contains all lint rules for the Flame package.
@@ -18,6 +19,7 @@ This repository contains a list of predefined presets for DCM:
 - **Equatable:** contains all lint rules for the Equatable package.
 - **Patrol:** contains all lint rules for the Patrol package.
 - **Pub:** contains all lint rules for linting the `pubspec.yaml` files.
+- **Recommended metrics:** contains recommended configured metrics.
 
 ## How to use a preset
 

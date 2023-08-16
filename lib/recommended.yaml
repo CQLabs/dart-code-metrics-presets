@@ -1,6 +1,6 @@
 dart_code_metrics:
   rules:
-    # Shows potential errors
+    # Show potential errors
     - avoid-cascade-after-if-null
     - avoid-collection-methods-with-unrelated-types
     - avoid-duplicate-exports

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.4.0
+
+- feat: add new rules.
+
 ## 2.3.0
 
 - feat: add preset with recommended rules for Dart and Flutter.

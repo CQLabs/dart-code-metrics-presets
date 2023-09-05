@@ -62,6 +62,10 @@ dart_code_metrics:
     - avoid-state-constructors
     - avoid-recursive-widget-calls
     - avoid-missing-image-alt
+    - avoid-passing-self-as-argument
+    - avoid-unnecessary-if
+    - avoid-unconditional-break
+    - avoid-referencing-discarded-variables
 
     # Code simplification
     - avoid-redundant-async
@@ -81,6 +85,7 @@ dart_code_metrics:
     - avoid-unnecessary-stateful-widgets
     - prefer-dedicated-media-query-methods
     - avoid-unnecessary-overrides-in-state
+    - move-variable-closer-to-its-usage
 
     # Style
     - prefer-trailing-comma

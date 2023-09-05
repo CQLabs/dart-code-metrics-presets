@@ -14,10 +14,11 @@ This repository contains a list of predefined presets for DCM:
 - **Flutter:** contains all lint rules applicable to any Flutter app.
 - **Flame:** contains all lint rules for the Flame package.
 - **Provider:** contains all lint rules for the Provider package.
-- **Intl:** contains all lint rules for the Intl package.
 - **Bloc:** contains all lint rules for the Bloc package.
 - **Equatable:** contains all lint rules for the Equatable package.
 - **Patrol:** contains all lint rules for the Patrol package.
+- **FakeAsync:** contains all lint rules for the FakeAsync package.
+- **Intl:** contains all lint rules for the Intl package.
 - **Pub:** contains all lint rules for linting the `pubspec.yaml` files.
 - **Recommended metrics:** contains recommended configured metrics.
 

@@ -18,6 +18,7 @@ This repository contains a list of predefined presets for DCM:
 - **Equatable:** contains all lint rules for the Equatable package.
 - **Patrol:** contains all lint rules for the Patrol package.
 - **FakeAsync:** contains all lint rules for the FakeAsync package.
+- **GetIt:** contains all lint rules for the GetIt package.
 - **Intl:** contains all lint rules for the Intl package.
 - **Pub:** contains all lint rules for linting the `pubspec.yaml` files.
 - **Recommended metrics:** contains recommended configured metrics.

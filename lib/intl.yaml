@@ -1,7 +1,8 @@
 dart_code_metrics:
   rules:
     - prefer-intl-name
-    - prefer-provide-intl-description
+    - prefer-providing-intl-description
     - provide-correct-intl-args
     - prefer-number-format
     - prefer-date-format
+    - prefer-providing-intl-examples

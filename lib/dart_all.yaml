@@ -157,3 +157,13 @@ dart_code_metrics:
     - avoid-passing-default-values
     - avoid-passing-self-as-argument
     - parameters-ordering
+    - avoid-unnecessary-late
+    - avoid-wildcard-cases-with-enums
+    - match-getter-setter-field-names
+    - avoid-unnecessary-getter
+    - avoid-long-files
+    - avoid-accessing-collections-by-constant-index
+    - avoid-extensions-on-records
+    - avoid-nullable-parameters-with-default-values
+    - prefer-named-imports
+    - avoid-local-functions

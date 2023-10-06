@@ -1,0 +1,3 @@
+dart_code_metrics:
+  rules:
+    - avoid-functions-in-register-singleton

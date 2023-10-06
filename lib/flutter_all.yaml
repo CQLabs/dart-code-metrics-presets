@@ -33,3 +33,5 @@ dart_code_metrics:
     - prefer-dedicated-media-query-methods
     - avoid-recursive-widget-calls
     - prefer-text-rich
+    - prefer-sliver-prefix
+    - avoid-single-child-column-or-row

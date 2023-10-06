@@ -66,6 +66,11 @@ dart_code_metrics:
     - avoid-unnecessary-if
     - avoid-unconditional-break
     - avoid-referencing-discarded-variables
+    # Enable with the next release
+    # - avoid-unnecessary-late
+    # - avoid-wildcard-cases-with-enums
+    # - match-getter-setter-field-names
+    # - avoid-accessing-collections-by-constant-index
 
     # Code simplification
     - avoid-redundant-async
@@ -86,6 +91,8 @@ dart_code_metrics:
     - prefer-dedicated-media-query-methods
     - avoid-unnecessary-overrides-in-state
     - move-variable-closer-to-its-usage
+    # - avoid-unnecessary-getter
+    # - avoid-nullable-parameters-with-default-values
 
     # Style
     - prefer-trailing-comma

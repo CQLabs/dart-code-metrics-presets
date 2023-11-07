@@ -71,6 +71,11 @@ dart_code_metrics:
     # - avoid-wildcard-cases-with-enums
     # - match-getter-setter-field-names
     # - avoid-accessing-collections-by-constant-index
+    # - prefer-unique-test-names
+    # - avoid-duplicate-cascades
+    # - prefer-specific-cases-first
+    # - avoid-duplicate-switch-case-conditions
+    # - prefer-explicit-function-type
 
     # Code simplification
     - avoid-redundant-async
@@ -93,9 +98,15 @@ dart_code_metrics:
     - move-variable-closer-to-its-usage
     # - avoid-unnecessary-getter
     # - avoid-nullable-parameters-with-default-values
+    # - prefer-null-aware-spread
+    # - avoid-inferrable-type-arguments
+    # - avoid-unnecessary-super
 
     # Style
     - prefer-trailing-comma
     - unnecessary-trailing-comma
     - prefer-declaring-const-constructor
     - prefer-single-widget-per-file
+    # - prefer-prefixed-global-constants
+    # - prefer-correct-callback-field-name
+    # - prefer-correct-handler-name

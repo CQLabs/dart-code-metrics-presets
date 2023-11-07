@@ -167,3 +167,23 @@ dart_code_metrics:
     - avoid-nullable-parameters-with-default-values
     - prefer-named-imports
     - avoid-local-functions
+    - prefer-null-aware-spread
+    - prefer-unique-test-names
+    - avoid-inferrable-type-arguments
+    - avoid-duplicate-cascades
+    - prefer-specific-cases-first
+    - avoid-duplicate-switch-case-conditions
+    # - match-lib-folder-structure # explicitly disabled
+    - avoid-missing-test-files
+    # - prefer-both-inlining-annotations # explicitly disabled
+    - avoid-collection-mutating-methods
+    - prefer-explicit-type-arguments
+    - avoid-unnecessary-super
+    - prefer-correct-setter-parameter-name
+    - prefer-prefixed-global-constants
+    - prefer-correct-callback-field-name
+    - prefer-explicit-function-type
+    - prefer-typedefs-for-callbacks
+    - prefer-correct-handler-name
+    - prefer-addition-subtraction-assignments
+    - avoid-banned-annotations

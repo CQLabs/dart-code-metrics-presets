@@ -2,7 +2,8 @@
 
 ## 2.7.0
 
-- feat: add new preset
+- feat: add new preset.
+- feat: add new rules.
 
 ## 2.6.0
 

@@ -187,3 +187,7 @@ dart_code_metrics:
     - prefer-correct-handler-name
     - prefer-addition-subtraction-assignments
     - avoid-banned-annotations
+    - prefer-switch-with-enums
+    - avoid-misused-test-matchers
+    - prefer-any-or-every
+    - avoid-duplicate-test-assertions

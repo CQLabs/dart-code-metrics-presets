@@ -4,7 +4,7 @@
 
 # DCM Presets
 
-DCM is an advanced linter for Dart and Flutter that helps you analyse and improve your code quality. You can find all available lint rules [here](https://dcm.dev/docs/rules/).
+DCM is an advanced linter for Dart and Flutter that helps you analyze and improve your code quality. You can find all available lint rules [here](https://dcm.dev/docs/rules/).
 
 This repository contains a list of predefined presets for DCM:
 
@@ -19,6 +19,7 @@ This repository contains a list of predefined presets for DCM:
 - **Patrol:** contains all lint rules for the Patrol package.
 - **FakeAsync:** contains all lint rules for the FakeAsync package.
 - **GetIt:** contains all lint rules for the GetIt package.
+- **FlutterHooks:** contains all lint rules for the FlutterHooks package.
 - **Intl:** contains all lint rules for the Intl package.
 - **Pub:** contains all lint rules for linting the `pubspec.yaml` files.
 - **Recommended metrics:** contains recommended configured metrics.

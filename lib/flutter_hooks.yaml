@@ -1,0 +1,5 @@
+dart_code_metrics:
+  rules:
+    - prefer-use-prefix
+    - avoid-conditional-hooks
+    - avoid-hooks-outside-build

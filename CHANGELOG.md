@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.8.0
+
+- feat: add new rules.
+
 ## 2.7.0
 
 - feat: add new preset.

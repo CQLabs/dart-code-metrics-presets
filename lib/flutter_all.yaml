@@ -35,3 +35,4 @@ dart_code_metrics:
     - prefer-text-rich
     - prefer-sliver-prefix
     - avoid-single-child-column-or-row
+    - avoid-undisposed-instances

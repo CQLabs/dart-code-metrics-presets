@@ -191,3 +191,10 @@ dart_code_metrics:
     - avoid-misused-test-matchers
     - prefer-any-or-every
     - avoid-duplicate-test-assertions
+    - avoid-duplicate-collection-elements
+    - avoid-duplicate-map-keys
+    - move-variable-outside-iteration
+    - avoid-nullable-tostring
+    - avoid-duplicate-initializers
+    - avoid-unused-after-null-check
+    - avoid-unassigned-stream-subscriptions

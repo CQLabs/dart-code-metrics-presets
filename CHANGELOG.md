@@ -3,6 +3,7 @@
 ## 2.9.0
 
 - feat: add new rules.
+- feat: update recommended preset.
 
 ## 2.8.0
 

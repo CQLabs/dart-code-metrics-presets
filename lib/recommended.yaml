@@ -75,16 +75,20 @@ dart_code_metrics:
     - prefer-specific-cases-first
     - avoid-duplicate-switch-case-conditions
     - prefer-explicit-function-type
+    - avoid-misused-test-matchers
+    - avoid-duplicate-test-assertions
+    - prefer-switch-with-enums
+    - prefer-any-or-every
+    - avoid-duplicate-map-keys
+    - avoid-nullable-tostring
+    - avoid-undisposed-instances
+    - avoid-duplicate-initializers
+    - avoid-unassigned-stream-subscriptions
     # Enable with the next release
-    # - avoid-misused-test-matchers
-    # - avoid-duplicate-test-assertions
-    # - prefer-switch-with-enums
-    # - prefer-any-or-every
-    # - avoid-duplicate-map-keys
-    # - avoid-nullable-tostring
-    # - avoid-undisposed-instances
-    # - avoid-duplicate-initializers
-    # - avoid-unassigned-stream-subscriptions
+    # - avoid-empty-test-groups
+    # - avoid-not-encodable-in-to-json
+    # - avoid-contradictory-expressions
+    # - avoid-excessive-expressions
 
     # Code simplification
     - avoid-redundant-async

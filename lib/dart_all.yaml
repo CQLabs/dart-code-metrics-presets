@@ -198,3 +198,7 @@ dart_code_metrics:
     - avoid-duplicate-initializers
     - avoid-unused-after-null-check
     - avoid-unassigned-stream-subscriptions
+    - avoid-empty-test-groups
+    - avoid-not-encodable-in-to-json
+    - avoid-contradictory-expressions
+    - avoid-excessive-expressions

@@ -89,6 +89,16 @@ dart_code_metrics:
     # - avoid-not-encodable-in-to-json
     # - avoid-contradictory-expressions
     # - avoid-excessive-expressions
+    # - prefer-private-extension-type-field
+    # - avoid-renaming-representation-getters
+    # - avoid-empty-spread
+    # - avoid-unnecessary-gesture-detector
+    # - avoid-missing-completer-stack-trace
+    # - avoid-casting-to-extension-type
+    # - avoid-slow-collection-methods
+    # - prefer-overriding-parent-equality
+    # - avoid-missing-controller
+    # - avoid-unknown-pragma
 
     # Code simplification
     - avoid-redundant-async
@@ -113,6 +123,8 @@ dart_code_metrics:
     - prefer-null-aware-spread
     - avoid-inferrable-type-arguments
     - avoid-unnecessary-super
+    # Enable with the next release
+    # - avoid-unnecessary-collections
 
     # Style
     - prefer-trailing-comma

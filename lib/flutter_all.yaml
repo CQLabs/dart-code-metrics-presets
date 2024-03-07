@@ -36,3 +36,5 @@ dart_code_metrics:
     - prefer-sliver-prefix
     - avoid-single-child-column-or-row
     - avoid-undisposed-instances
+    - avoid-unnecessary-gesture-detector
+    - avoid-missing-controller

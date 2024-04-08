@@ -3,3 +3,4 @@ dart_code_metrics:
     - prefer-use-prefix
     - avoid-conditional-hooks
     - avoid-hooks-outside-build
+    - avoid-unnecessary-hook-widgets

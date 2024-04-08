@@ -38,3 +38,4 @@ dart_code_metrics:
     - avoid-undisposed-instances
     - avoid-unnecessary-gesture-detector
     - avoid-missing-controller
+    - prefer-for-loop-in-children

@@ -213,3 +213,6 @@ dart_code_metrics:
     - prefer-overriding-parent-equality
     - avoid-unnecessary-collections
     - avoid-unknown-pragma
+    - missing-use-result-annotation
+    - avoid-conditions-with-boolean-literals
+    - no-magic-string

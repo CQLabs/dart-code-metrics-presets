@@ -4,3 +4,5 @@ dart_code_metrics:
     - avoid-conditional-hooks
     - avoid-hooks-outside-build
     - avoid-unnecessary-hook-widgets
+    - prefer-use-callback
+    - avoid-misused-hooks

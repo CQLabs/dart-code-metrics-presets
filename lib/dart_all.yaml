@@ -216,3 +216,7 @@ dart_code_metrics:
     - missing-use-result-annotation
     - avoid-conditions-with-boolean-literals
     - no-magic-string
+    - avoid-collection-equality-checks
+    - avoid-multi-assignment
+    - prefer-switch-with-sealed-classes
+    - prefer-single-declaration-per-file

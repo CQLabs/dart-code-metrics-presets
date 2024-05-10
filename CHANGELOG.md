@@ -4,6 +4,7 @@
 
 - feat: add new preset.
 - feat: add new rules.
+- feat: update recommended preset.
 
 ## 2.11.0
 

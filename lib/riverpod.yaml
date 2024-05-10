@@ -1,0 +1,5 @@
+dart_code_metrics:
+  rules:
+    - avoid-ref-read-inside-build
+    - avoid-ref-watch-outside-build
+    - avoid-unnecessary-consumer-widgets

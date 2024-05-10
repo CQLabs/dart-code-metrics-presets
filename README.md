@@ -15,6 +15,7 @@ This repository contains a list of predefined presets for DCM:
 - **Flame:** contains all lint rules for the Flame package.
 - **Provider:** contains all lint rules for the Provider package.
 - **Bloc:** contains all lint rules for the Bloc package.
+- **Riverpod:** contains all lint rules for the Riverpod package.
 - **Equatable:** contains all lint rules for the Equatable package.
 - **Patrol:** contains all lint rules for the Patrol package.
 - **FakeAsync:** contains all lint rules for the FakeAsync package.

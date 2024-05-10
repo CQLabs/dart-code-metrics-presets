@@ -1,6 +1,6 @@
 name: dart_code_metrics_presets
-version: 2.11.0
-description: Predefined presets for Dart Code Metrics.
+version: 2.12.0
+description: Predefined presets for DCM.
 repository: https://github.com/CQLabs/dart-code-metrics-presets
 
 environment:

@@ -1,0 +1,5 @@
+dart_code_metrics:
+  rules:
+    - always-remove-getx-listener
+    - dispose-getx-fields
+    - avoid-getx-rx-inside-build

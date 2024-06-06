@@ -3,6 +3,7 @@
 ## 2.13.0
 
 - feat: add new rules.
+- feat: add new preset.
 
 ## 2.12.0
 

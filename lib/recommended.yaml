@@ -101,6 +101,7 @@ dart_code_metrics:
     # Enable with the next release
     # - avoid-multi-assignment
     # - avoid-collection-equality-checks
+    # - avoid-only-rethrow
 
     # Code simplification
     - avoid-redundant-async

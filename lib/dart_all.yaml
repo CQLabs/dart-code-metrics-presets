@@ -220,3 +220,8 @@ dart_code_metrics:
     - avoid-multi-assignment
     - prefer-switch-with-sealed-classes
     - prefer-single-declaration-per-file
+    - avoid-returning-cascades
+    - avoid-only-rethrow
+    - prefer-named-parameters
+    - prefer-abstract-final-static-class
+    - avoid-unsafe-reduce

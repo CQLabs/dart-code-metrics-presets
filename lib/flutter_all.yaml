@@ -39,3 +39,4 @@ dart_code_metrics:
     - avoid-unnecessary-gesture-detector
     - avoid-missing-controller
     - prefer-for-loop-in-children
+    - avoid-incorrect-image-opacity

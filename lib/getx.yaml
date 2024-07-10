@@ -3,3 +3,4 @@ dart_code_metrics:
     - always-remove-getx-listener
     - dispose-getx-fields
     - avoid-getx-rx-inside-build
+    - proper-getx-super-calls

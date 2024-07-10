@@ -102,6 +102,7 @@ dart_code_metrics:
     # - avoid-multi-assignment
     # - avoid-collection-equality-checks
     # - avoid-only-rethrow
+    # - avoid-incorrect-image-opacity
 
     # Code simplification
     - avoid-redundant-async

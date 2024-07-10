@@ -225,3 +225,6 @@ dart_code_metrics:
     - prefer-named-parameters
     - prefer-abstract-final-static-class
     - avoid-unsafe-reduce
+    - handle-throwing-invocations
+    - prefer-correct-throws
+    - prefer-extracting-function-callbacks

@@ -1,0 +1,4 @@
+dart_code_metrics:
+  rules:
+    - incorrect-firebase-event-name
+    - incorrect-firebase-parameter-name

@@ -21,8 +21,10 @@ This repository contains a list of predefined presets for DCM:
 - **FakeAsync:** contains all lint rules for the FakeAsync package.
 - **GetIt:** contains all lint rules for the GetIt package.
 - **FlutterHooks:** contains all lint rules for the FlutterHooks package.
+- **FirebaseAnalytics:** contains all lint rules for the FirebaseAnalytics package.
 - **GetX:** contains all lint rules for the GetX package.
 - **Intl:** contains all lint rules for the Intl package.
+- **EasyLocalization:** contains all lint rules for the EasyLocalization package.
 - **Pub:** contains all lint rules for linting the `pubspec.yaml` files.
 - **Recommended metrics:** contains recommended configured metrics.
 

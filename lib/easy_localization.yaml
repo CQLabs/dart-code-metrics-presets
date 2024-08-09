@@ -1,0 +1,3 @@
+dart_code_metrics:
+  rules:
+    - avoid-missing-tr

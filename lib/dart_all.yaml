@@ -228,3 +228,9 @@ dart_code_metrics:
     - handle-throwing-invocations
     - prefer-correct-throws
     - prefer-extracting-function-callbacks
+    - prefer-boolean-prefixes
+    - avoid-banned-names
+    - avoid-misused-set-literals
+    - dispose-class-fields
+    - avoid-suspicious-super-overrides
+    - newline-before-method

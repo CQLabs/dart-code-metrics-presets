@@ -8,3 +8,5 @@ dart_code_metrics:
     - avoid-any-version
     - prefer-correct-screenshots
     - banned-dependencies
+    # explicitly disabled
+    # - prefer-pinned-version-syntax

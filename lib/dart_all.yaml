@@ -234,3 +234,17 @@ dart_code_metrics:
     - dispose-class-fields
     - avoid-suspicious-super-overrides
     - newline-before-method
+    - avoid-unnecessary-extends
+    - avoid-assignments-as-conditions
+    - avoid-type-casts
+    - avoid-unused-assignment
+    - avoid-unnecessary-overrides
+    - avoid-duplicate-constant-values
+    - avoid-unnecessary-enum-arguments
+    - prefer-contains
+    - avoid-unnecessary-constructor
+    - avoid-implicitly-nullable-extension-types
+    - avoid-getter-prefix
+    - avoid-assigning-to-static-field
+    - avoid-unnecessary-enum-prefix
+    - avoid-non-final-exception-class-fields

@@ -248,3 +248,10 @@ dart_code_metrics:
     - avoid-assigning-to-static-field
     - avoid-unnecessary-enum-prefix
     - avoid-non-final-exception-class-fields
+    - prefer-simpler-boolean-expressions
+    - avoid-late-final-reassignment
+    - avoid-referencing-subclasses
+    - avoid-high-cyclomatic-complexity
+    - use-existing-variable
+    - avoid-complex-loop-conditions
+    # - avoid-non-empty-constructor-bodies # explicitly disabled

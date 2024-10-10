@@ -111,6 +111,7 @@ dart_code_metrics:
     # - avoid-unnecessary-overrides
     # - avoid-duplicate-constant-values
     # - avoid-implicitly-nullable-extension-types
+    # - avoid-late-final-reassignment
 
     # Code simplification
     - avoid-redundant-async
@@ -140,6 +141,7 @@ dart_code_metrics:
     # - avoid-unnecessary-extends
     # - avoid-unnecessary-enum-arguments
     # - prefer-contains
+    # - prefer-simpler-boolean-expressions
 
     # Style
     - prefer-trailing-comma

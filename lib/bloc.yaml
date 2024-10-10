@@ -6,3 +6,4 @@ dart_code_metrics:
     - prefer-multi-bloc-provider
     - prefer-correct-bloc-provider
     - check-is-not-closed-after-async-gap
+    - avoid-empty-build-when

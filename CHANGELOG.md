@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.17.0
+
+- feat: add new rules.
+
 ## 2.16.0
 
 - feat: add new rules.

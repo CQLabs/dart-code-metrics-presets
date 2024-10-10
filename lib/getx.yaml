@@ -4,3 +4,4 @@ dart_code_metrics:
     - dispose-getx-fields
     - avoid-getx-rx-inside-build
     - proper-getx-super-calls
+    - avoid-mutable-rx-variables

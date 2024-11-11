@@ -98,20 +98,22 @@ dart_code_metrics:
     - avoid-missing-controller
     - avoid-unknown-pragma
     - avoid-conditions-with-boolean-literals
+    - avoid-multi-assignment
+    - avoid-collection-equality-checks
+    - avoid-only-rethrow
+    - avoid-incorrect-image-opacity
+    - avoid-misused-set-literals
+    - dispose-class-fields
+    - avoid-suspicious-super-overrides
+    - avoid-assignments-as-conditions
+    - avoid-unused-assignment
+    - avoid-unnecessary-overrides
+    - avoid-implicitly-nullable-extension-types
     # Enable with the next release
-    # - avoid-multi-assignment
-    # - avoid-collection-equality-checks
-    # - avoid-only-rethrow
-    # - avoid-incorrect-image-opacity
-    # - avoid-misused-set-literals
-    # - dispose-class-fields
-    # - avoid-suspicious-super-overrides
-    # - avoid-assignments-as-conditions
-    # - avoid-unused-assignment
-    # - avoid-unnecessary-overrides
-    # - avoid-duplicate-constant-values
-    # - avoid-implicitly-nullable-extension-types
     # - avoid-late-final-reassignment
+    # - avoid-duplicate-constant-values
+    # - function-always-returns-same-value
+    # - avoid-flexible-outside-flex
 
     # Code simplification
     - avoid-redundant-async
@@ -137,10 +139,10 @@ dart_code_metrics:
     - avoid-inferrable-type-arguments
     - avoid-unnecessary-super
     - avoid-unnecessary-collections
+    - avoid-unnecessary-extends
+    - avoid-unnecessary-enum-arguments
+    - prefer-contains
     # Enable with the next release
-    # - avoid-unnecessary-extends
-    # - avoid-unnecessary-enum-arguments
-    # - prefer-contains
     # - prefer-simpler-boolean-expressions
 
     # Style

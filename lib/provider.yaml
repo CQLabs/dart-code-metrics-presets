@@ -5,3 +5,4 @@ dart_code_metrics:
     - dispose-providers
     - prefer-multi-provider
     - avoid-instantiating-in-value-provider
+    - prefer-provider-extensions

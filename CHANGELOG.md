@@ -3,6 +3,7 @@
 ## 2.18.0
 
 - fix: add missing rules to dart_all and comment out rules that require config.
+- feat: add new rules.
 
 ## 2.17.0
 

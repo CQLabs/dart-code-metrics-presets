@@ -256,3 +256,9 @@ dart_code_metrics:
     # - tag-name # explicitly disabled
     - unnecessary-trailing-comma
     - use-existing-variable
+    - avoid-negations-in-equality-checks
+    - avoid-incorrect-uri
+    - function-always-returns-same-value
+    - prefer-add-all
+    - prefer-for-in
+    - avoid-adjacent-strings

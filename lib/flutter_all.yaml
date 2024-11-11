@@ -40,3 +40,7 @@ dart_code_metrics:
     - avoid-missing-controller
     - prefer-for-loop-in-children
     - avoid-incorrect-image-opacity
+    - prefer-sized-box-square
+    - avoid-flexible-outside-flex
+    - prefer-center-over-align
+    - prefer-padding-over-container

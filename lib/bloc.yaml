@@ -7,3 +7,9 @@ dart_code_metrics:
     - prefer-correct-bloc-provider
     - check-is-not-closed-after-async-gap
     - avoid-empty-build-when
+    - prefer-bloc-extensions
+    - avoid-duplicate-bloc-event-handlers
+    - handle-bloc-event-subclasses
+    - avoid-passing-build-context-to-blocs
+    - prefer-sealed-bloc-events
+    - prefer-sealed-bloc-state

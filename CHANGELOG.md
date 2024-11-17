@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.19.0
+
+- feat: add config for extension recommendation api.
+
 ## 2.18.0
 
 - fix: add missing rules to dart_all and comment out rules that require config.

@@ -1,7 +1,14 @@
 name: dart_code_metrics_presets
 version: 2.18.0
 description: Predefined presets for DCM.
+homepage: https://dcm.dev/
 repository: https://github.com/CQLabs/dart-code-metrics-presets
+documentation: https://dcm.dev/docs/
+topics: [dart-code-metrics, dcm, lints, linter]
+
+screenshots:
+  - description: "DCM Logo"
+    path: assets/logo.jpg
 
 environment:
   sdk: ">=2.17.0 <4.0.0"

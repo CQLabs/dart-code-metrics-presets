@@ -7,7 +7,7 @@ documentation: https://dcm.dev/docs/
 topics: [dart-code-metrics, dcm, lints, linter]
 
 screenshots:
-  - description: "DCM Logo"
+  - description: "DCM Logo Dark"
     path: assets/logo.jpg
 
 environment:

@@ -13,3 +13,12 @@ dart_code_metrics:
     - avoid-passing-build-context-to-blocs
     - prefer-sealed-bloc-events
     - prefer-sealed-bloc-state
+    - emit-new-bloc-state-instances
+    - avoid-bloc-public-fields
+    - prefer-bloc-state-suffix
+    - prefer-immutable-bloc-state
+    - prefer-bloc-event-suffix
+    - prefer-immutable-bloc-events
+    - avoid-instantiating-in-bloc-value-provider
+    - avoid-returning-value-from-cubit-methods
+    - avoid-existing-instances-in-bloc-provider

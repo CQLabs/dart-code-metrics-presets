@@ -44,3 +44,4 @@ dart_code_metrics:
     - avoid-flexible-outside-flex
     - prefer-center-over-align
     - prefer-padding-over-container
+    - prefer-container

@@ -114,6 +114,7 @@ dart_code_metrics:
     # - avoid-duplicate-constant-values
     # - function-always-returns-same-value
     # - avoid-flexible-outside-flex
+    # - avoid-unnecessary-patterns
 
     # Code simplification
     - avoid-redundant-async

@@ -2,6 +2,7 @@
 
 ## 2.19.0
 
+- feat: add new rules.
 - feat: add config for extension recommendation api.
 
 ## 2.18.0

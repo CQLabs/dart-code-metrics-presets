@@ -262,3 +262,7 @@ dart_code_metrics:
     - prefer-add-all
     - prefer-for-in
     - avoid-adjacent-strings
+    - avoid-unnecessary-patterns
+    - prefer-assigning-await-expressions
+    - avoid-single-field-destructuring
+    - record-fields-ordering

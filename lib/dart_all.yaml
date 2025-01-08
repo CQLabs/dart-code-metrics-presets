@@ -266,3 +266,16 @@ dart_code_metrics:
     - prefer-assigning-await-expressions
     - avoid-single-field-destructuring
     - record-fields-ordering
+    - avoid-commented-out-code
+    - avoid-future-ignore
+    - prefer-switch-expression
+    - avoid-unnecessary-continue
+    - no-empty-string
+    - avoid-continue
+    - pattern-fields-ordering
+    - use-existing-destructuring
+    - prefer-class-destructuring
+    - prefer-static-method
+    - avoid-if-with-many-branches
+    - prefer-commenting-future-delayed
+    - avoid-complex-arithmetic-expressions

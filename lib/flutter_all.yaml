@@ -45,3 +45,7 @@ dart_code_metrics:
     - prefer-center-over-align
     - prefer-padding-over-container
     - prefer-container
+    - prefer-spacing
+    - use-closest-build-context
+    - prefer-transform-over-container
+    - prefer-align-over-container

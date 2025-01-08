@@ -115,6 +115,8 @@ dart_code_metrics:
     # - function-always-returns-same-value
     # - avoid-flexible-outside-flex
     # - avoid-unnecessary-patterns
+    # - use-closest-build-context
+    # - avoid-commented-out-code
 
     # Code simplification
     - avoid-redundant-async
@@ -145,6 +147,8 @@ dart_code_metrics:
     - prefer-contains
     # Enable with the next release
     # - prefer-simpler-boolean-expressions
+    # - prefer-spacing
+    # - avoid-unnecessary-continue
 
     # Style
     - prefer-trailing-comma

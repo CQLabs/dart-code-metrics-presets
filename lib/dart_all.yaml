@@ -279,3 +279,7 @@ dart_code_metrics:
     - avoid-if-with-many-branches
     - prefer-commenting-future-delayed
     - avoid-complex-arithmetic-expressions
+    - prefer-redirecting-superclass-constructor
+    - prefer-expect-later
+    - avoid-nested-try-statements
+    - avoid-unnecessary-block

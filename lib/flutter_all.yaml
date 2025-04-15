@@ -49,3 +49,6 @@ dart_code_metrics:
     - use-closest-build-context
     - prefer-transform-over-container
     - prefer-align-over-container
+    - pass-existing-future-to-future-builder
+    - pass-existing-stream-to-stream-builder
+    - prefer-compute-over-isolate-run

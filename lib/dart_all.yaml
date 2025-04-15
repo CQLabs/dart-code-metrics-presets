@@ -283,3 +283,11 @@ dart_code_metrics:
     - prefer-expect-later
     - avoid-nested-try-statements
     - avoid-unnecessary-block
+    - avoid-recursive-tostring
+    - avoid-enum-values-by-index
+    - avoid-constant-assert-conditions
+    - avoid-nested-assignments
+    - avoid-unnecessary-compare-to
+    - prefer-digit-separators
+    - avoid-unnecessary-digit-separators
+    - avoid-inconsistent-digit-separators

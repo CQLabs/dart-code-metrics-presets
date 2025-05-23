@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.23.0
+
+- fix: add missing metrics to the recommended preset.
+
 ## 2.22.0
 
 - feat: add new rules.

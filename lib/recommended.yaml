@@ -109,20 +109,20 @@ dart_code_metrics:
     - avoid-unused-assignment
     - avoid-unnecessary-overrides
     - avoid-implicitly-nullable-extension-types
+    - avoid-late-final-reassignment
+    - avoid-duplicate-constant-values
+    - function-always-returns-same-value
+    - avoid-flexible-outside-flex
+    - avoid-unnecessary-patterns
+    - use-closest-build-context
+    - avoid-commented-out-code
+    - avoid-recursive-tostring
+    - avoid-enum-values-by-index
+    - avoid-constant-assert-conditions
+    - avoid-inconsistent-digit-separators
+    - pass-existing-future-to-future-builder
+    - pass-existing-stream-to-stream-builder
     # Enable with the next release
-    # - avoid-late-final-reassignment
-    # - avoid-duplicate-constant-values
-    # - function-always-returns-same-value
-    # - avoid-flexible-outside-flex
-    # - avoid-unnecessary-patterns
-    # - use-closest-build-context
-    # - avoid-commented-out-code
-    # - avoid-recursive-tostring
-    # - avoid-enum-values-by-index
-    # - avoid-constant-assert-conditions
-    # - avoid-inconsistent-digit-separators
-    # - pass-existing-future-to-future-builder
-    # - pass-existing-stream-to-stream-builder
 
     # Code simplification
     - avoid-redundant-async
@@ -151,11 +151,11 @@ dart_code_metrics:
     - avoid-unnecessary-extends
     - avoid-unnecessary-enum-arguments
     - prefer-contains
+    - prefer-simpler-boolean-expressions
+    - prefer-spacing
+    - avoid-unnecessary-continue
+    - avoid-unnecessary-compare-to
     # Enable with the next release
-    # - prefer-simpler-boolean-expressions
-    # - prefer-spacing
-    # - avoid-unnecessary-continue
-    # - avoid-unnecessary-compare-to
 
     # Style
     - prefer-trailing-comma

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.24.0
+
+- feat: update recommended preset.
+
 ## 2.23.0
 
 - fix: add missing metrics to the recommended preset.

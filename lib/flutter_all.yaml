@@ -52,3 +52,5 @@ dart_code_metrics:
     - pass-existing-future-to-future-builder
     - pass-existing-stream-to-stream-builder
     - prefer-compute-over-isolate-run
+    - prefer-single-setstate
+    - avoid-mounted-in-setstate

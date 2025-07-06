@@ -6,3 +6,5 @@ dart_code_metrics:
     - prefer-multi-provider
     - avoid-instantiating-in-value-provider
     - prefer-provider-extensions
+    - prefer-immutable-selector-value
+    # - prefer-nullable-provider-types # explicitly disabled

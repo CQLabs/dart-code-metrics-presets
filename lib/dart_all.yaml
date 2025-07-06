@@ -291,3 +291,20 @@ dart_code_metrics:
     - prefer-digit-separators
     - avoid-unnecessary-digit-separators
     - avoid-inconsistent-digit-separators
+    - prefer-pushing-conditional-expressions
+    - avoid-suspicious-global-reference
+    # - pass-correct-accepted-type # explicitly disabled
+    - avoid-unreachable-for-loop
+    - avoid-unnecessary-length-check
+    - prefer-specifying-future-value-type
+    - avoid-default-tostring
+    - avoid-stream-tostring
+    - prefer-null-aware-elements
+    - avoid-unnecessary-null-aware-elements
+    - avoid-unnecessary-statements
+    - avoid-unnecessary-nullable-fields
+    # - avoid-banned-exports # explicitly disabled
+    # - max-imports # explicitly disabled
+    - avoid-bitwise-operators-with-booleans
+    - prefer-compound-assignment-operators
+    # - avoid-deprecated-usage # explicitly disabled

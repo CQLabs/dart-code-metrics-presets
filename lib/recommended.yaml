@@ -123,6 +123,12 @@ dart_code_metrics:
     - pass-existing-future-to-future-builder
     - pass-existing-stream-to-stream-builder
     # Enable with the next release
+    # - avoid-mounted-in-setstate
+    # - prefer-specifying-future-value-type
+    # - avoid-default-tostring
+    # - avoid-stream-tostring
+    # - avoid-unreachable-for-loop
+    # - avoid-suspicious-global-reference
 
     # Code simplification
     - avoid-redundant-async
@@ -156,6 +162,11 @@ dart_code_metrics:
     - avoid-unnecessary-continue
     - avoid-unnecessary-compare-to
     # Enable with the next release
+    # - prefer-null-aware-elements
+    # - avoid-unnecessary-null-aware-elements
+    # - avoid-unnecessary-statements
+    # - avoid-unnecessary-nullable-fields
+    # - avoid-unnecessary-length-check
 
     # Style
     - prefer-trailing-comma

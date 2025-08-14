@@ -7,3 +7,7 @@ dart_code_metrics:
     - avoid-calling-notifier-members-inside-build
     - avoid-notifier-constructors
     - dispose-provided-instances
+    - prefer-immutable-provider-arguments
+    - avoid-public-notifier-properties
+    - avoid-ref-inside-state-dispose
+    - avoid-nullable-async-value-pattern

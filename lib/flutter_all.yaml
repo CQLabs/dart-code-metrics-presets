@@ -54,3 +54,6 @@ dart_code_metrics:
     - prefer-compute-over-isolate-run
     - prefer-single-setstate
     - avoid-mounted-in-setstate
+    - prefer-constrained-box-over-container
+    - prefer-void-callback
+    - prefer-async-callback

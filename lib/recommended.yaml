@@ -133,6 +133,7 @@ dart_code_metrics:
     # - avoid-unnecessary-late-fields
     # - avoid-unnecessary-nullable-parameters
     # - avoid-never-passed-parameters
+    # - avoid-wildcard-cases-with-sealed-classes
 
     # Code simplification
     - avoid-redundant-async

@@ -313,3 +313,4 @@ dart_code_metrics:
     - avoid-unnecessary-nullable-parameters
     - avoid-never-passed-parameters
     - prefer-returning-condition
+    - avoid-wildcard-cases-with-sealed-classes

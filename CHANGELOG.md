@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.25.1
+
+- feat: add new rule `avoid-wildcard-cases-with-sealed-classes`.
+
 ## 2.25.0
 
 - feat: add new rules.

@@ -3,6 +3,7 @@
 ## 2.26.0
 
 - feat: remove `avoid-nullable-parameters-with-default-values` from recommended.
+- feat: add new rules.
 
 ## 2.25.1
 

@@ -134,6 +134,11 @@ dart_code_metrics:
     # - avoid-unnecessary-nullable-parameters
     # - avoid-never-passed-parameters
     # - avoid-wildcard-cases-with-sealed-classes
+    # - avoid-unremovable-callbacks-in-listeners
+    # - avoid-constant-switches
+    # - avoid-constant-conditions
+    # - avoid-unused-local-variable
+    # - match-base-class-default-value
 
     # Code simplification
     - avoid-redundant-async
@@ -169,7 +174,6 @@ dart_code_metrics:
     # - prefer-null-aware-elements
     # - avoid-unnecessary-null-aware-elements
     # - avoid-unnecessary-statements
-    # - avoid-unnecessary-nullable-fields
     # - avoid-unnecessary-length-check
 
     # Style

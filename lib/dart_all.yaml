@@ -314,3 +314,9 @@ dart_code_metrics:
     - avoid-never-passed-parameters
     - prefer-returning-condition
     - avoid-wildcard-cases-with-sealed-classes
+    - avoid-unremovable-callbacks-in-listeners
+    - avoid-constant-switches
+    - avoid-constant-conditions
+    - avoid-unused-local-variable
+    - match-base-class-default-value
+    # - prefer-test-structure # explicitly disabled

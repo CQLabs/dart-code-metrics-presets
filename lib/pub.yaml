@@ -10,3 +10,8 @@ dart_code_metrics:
     - banned-dependencies
     - prefer-commenting-pubspec-ignores
     # - prefer-pinned-version-syntax # explicitly disabled
+    - dependencies-ordering
+    - newline-before-pubspec-entry
+    - pubspec-ordering
+    # - add-resolution-workspace # explicitly disabled
+    - prefer-correct-topics

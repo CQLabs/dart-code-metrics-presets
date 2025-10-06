@@ -2,3 +2,4 @@ dart_code_metrics:
   rules:
     - extend-equatable
     - list-all-equatable-fields
+    - prefer-equatable-mixin

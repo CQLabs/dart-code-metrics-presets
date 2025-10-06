@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.26.0
+
+- feat: remove `avoid-nullable-parameters-with-default-values` from recommended.
+
 ## 2.25.1
 
 - feat: add new rule `avoid-wildcard-cases-with-sealed-classes`.

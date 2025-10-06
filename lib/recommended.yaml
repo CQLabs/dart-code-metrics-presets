@@ -154,7 +154,6 @@ dart_code_metrics:
     - prefer-dedicated-media-query-methods
     - avoid-unnecessary-overrides-in-state
     - move-variable-closer-to-its-usage
-    - avoid-nullable-parameters-with-default-values
     - prefer-null-aware-spread
     - avoid-inferrable-type-arguments
     - avoid-unnecessary-super

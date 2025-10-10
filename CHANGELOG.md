@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.26.1
+
+- fix: remove `prefer-trailing-comma` and `unnecessary-trailing-comma` from recommended.
+
 ## 2.26.0
 
 - feat: remove `avoid-nullable-parameters-with-default-values` from recommended.

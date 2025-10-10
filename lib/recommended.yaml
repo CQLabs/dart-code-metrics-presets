@@ -177,8 +177,6 @@ dart_code_metrics:
     # - avoid-unnecessary-length-check
 
     # Style
-    - prefer-trailing-comma
-    - unnecessary-trailing-comma
     - prefer-declaring-const-constructor
     - prefer-single-widget-per-file
     - prefer-prefixed-global-constants

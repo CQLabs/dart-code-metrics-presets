@@ -139,6 +139,9 @@ dart_code_metrics:
     # - avoid-constant-conditions
     # - avoid-unused-local-variable
     # - match-base-class-default-value
+    # - avoid-unassigned-fields
+    # - avoid-always-null-parameters
+    # - avoid-nested-shorthands
 
     # Code simplification
     - avoid-redundant-async
@@ -175,6 +178,10 @@ dart_code_metrics:
     # - avoid-unnecessary-null-aware-elements
     # - avoid-unnecessary-statements
     # - avoid-unnecessary-length-check
+    # - prefer-shorthands-with-enums
+    # - prefer-shorthands-with-static-fields
+    # - prefer-returning-shorthands
+    # - prefer-shorthands-with-constructors
 
     # Style
     - prefer-declaring-const-constructor

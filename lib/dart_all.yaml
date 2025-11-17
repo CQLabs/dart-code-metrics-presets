@@ -320,3 +320,11 @@ dart_code_metrics:
     - avoid-unused-local-variable
     - match-base-class-default-value
     # - prefer-test-structure # explicitly disabled
+    - newline-before-constructor
+    - avoid-unassigned-fields
+    - avoid-always-null-parameters
+    - prefer-shorthands-with-enums
+    - prefer-shorthands-with-static-fields
+    - avoid-nested-shorthands
+    - prefer-returning-shorthands
+    - prefer-shorthands-with-constructors

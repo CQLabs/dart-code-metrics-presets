@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.27.0
+
+- feat: add new rules.
+
 ## 2.26.1
 
 - fix: remove `prefer-trailing-comma` and `unnecessary-trailing-comma` from recommended.

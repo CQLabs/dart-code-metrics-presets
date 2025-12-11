@@ -3,6 +3,7 @@
 ## 2.28.0
 
 - feat: add new rules.
+- feat: update recommended preset.
 
 ## 2.27.0
 

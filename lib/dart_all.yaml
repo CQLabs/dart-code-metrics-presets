@@ -328,3 +328,6 @@ dart_code_metrics:
     - avoid-nested-shorthands
     - prefer-returning-shorthands
     - prefer-shorthands-with-constructors
+    # - pass-optional-argument # explicitly disabled]
+    - avoid-immediately-invoked-functions
+    - avoid-complex-conditions

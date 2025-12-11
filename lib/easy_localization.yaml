@@ -1,3 +1,4 @@
 dart_code_metrics:
   rules:
     - avoid-missing-tr
+    - avoid-missing-tr-on-strings

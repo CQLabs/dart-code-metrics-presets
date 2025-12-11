@@ -11,3 +11,5 @@ dart_code_metrics:
     - avoid-public-notifier-properties
     - avoid-ref-inside-state-dispose
     - avoid-nullable-async-value-pattern
+    - use-ref-and-state-synchronously
+    - avoid-assigning-notifiers

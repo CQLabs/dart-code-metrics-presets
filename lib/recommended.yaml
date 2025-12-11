@@ -122,26 +122,27 @@ dart_code_metrics:
     - avoid-inconsistent-digit-separators
     - pass-existing-future-to-future-builder
     - pass-existing-stream-to-stream-builder
+    - avoid-mounted-in-setstate
+    - prefer-specifying-future-value-type
+    - avoid-default-tostring
+    - avoid-stream-tostring
+    - avoid-unreachable-for-loop
+    - avoid-suspicious-global-reference
+    - avoid-unnecessary-local-variable
+    - avoid-unnecessary-late-fields
+    - avoid-unnecessary-nullable-parameters
+    - avoid-never-passed-parameters
+    - avoid-wildcard-cases-with-sealed-classes
+    - avoid-unremovable-callbacks-in-listeners
+    - avoid-constant-switches
+    - avoid-constant-conditions
+    - avoid-unused-local-variable
+    - match-base-class-default-value
+    - avoid-unassigned-fields
+    - avoid-always-null-parameters
+    - avoid-nested-shorthands
     # Enable with the next release
-    # - avoid-mounted-in-setstate
-    # - prefer-specifying-future-value-type
-    # - avoid-default-tostring
-    # - avoid-stream-tostring
-    # - avoid-unreachable-for-loop
-    # - avoid-suspicious-global-reference
-    # - avoid-unnecessary-local-variable
-    # - avoid-unnecessary-late-fields
-    # - avoid-unnecessary-nullable-parameters
-    # - avoid-never-passed-parameters
-    # - avoid-wildcard-cases-with-sealed-classes
-    # - avoid-unremovable-callbacks-in-listeners
-    # - avoid-constant-switches
-    # - avoid-constant-conditions
-    # - avoid-unused-local-variable
-    # - match-base-class-default-value
-    # - avoid-unassigned-fields
-    # - avoid-always-null-parameters
-    # - avoid-nested-shorthands
+    # - avoid-complex-conditions
 
     # Code simplification
     - avoid-redundant-async
@@ -173,15 +174,16 @@ dart_code_metrics:
     - prefer-spacing
     - avoid-unnecessary-continue
     - avoid-unnecessary-compare-to
+    - prefer-null-aware-elements
+    - avoid-unnecessary-null-aware-elements
+    - avoid-unnecessary-statements
+    - avoid-unnecessary-length-check
+    - prefer-shorthands-with-enums
+    - prefer-shorthands-with-static-fields
+    - prefer-returning-shorthands
+    - prefer-shorthands-with-constructors
     # Enable with the next release
-    # - prefer-null-aware-elements
-    # - avoid-unnecessary-null-aware-elements
-    # - avoid-unnecessary-statements
-    # - avoid-unnecessary-length-check
-    # - prefer-shorthands-with-enums
-    # - prefer-shorthands-with-static-fields
-    # - prefer-returning-shorthands
-    # - prefer-shorthands-with-constructors
+    # - avoid-immediately-invoked-functions
 
     # Style
     - prefer-declaring-const-constructor

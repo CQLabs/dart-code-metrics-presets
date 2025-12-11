@@ -1,5 +1,5 @@
 name: dart_code_metrics_presets
-version: 2.27.0
+version: 2.28.0
 description: Predefined presets for DCM, a code quality tool for Flutter dev teams.
 homepage: https://dcm.dev/
 repository: https://github.com/CQLabs/dart-code-metrics-presets

@@ -1,0 +1,25 @@
+dart_code_metrics:
+  metrics:
+    cyclomatic-complexity: 15
+    coupling-between-object-classes: 20
+    depth-of-inheritance-tree: 5
+    halstead-volume: 1000
+    lines-of-code: 100
+    source-lines-of-code: 60
+    maintainability-index: 0.5
+    maximum-nesting-level: 5
+    number-of-added-methods: 10
+    number-of-external-imports: 6
+    number-of-implemented-interfaces: 3
+    number-of-imports: 15
+    number-of-methods: 10
+    number-of-overridden-methods: 10
+    number-of-parameters: 6
+    response-for-class: 40
+    tight-class-cohesion: 0.33
+    weight-of-class: 0.33
+    weighted-methods-per-class: 45
+
+    # Flutter specific
+    number-of-used-widgets: 20
+    widgets-nesting-level: 8

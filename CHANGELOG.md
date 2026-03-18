@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.30.0
+
+- feat: add new rules.
+
 ## 2.29.0
 
 - feat: update `metrics_recommended` preset to have only 13 recommended metrics with new default thresholds.

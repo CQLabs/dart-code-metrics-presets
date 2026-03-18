@@ -1,0 +1,6 @@
+dart_code_metrics:
+  rules:
+    - use-then-answer
+    - pass-mock-object
+    - avoid-implementation-in-mocks
+    - prefer-correct-any-matcher

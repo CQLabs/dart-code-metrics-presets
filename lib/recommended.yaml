@@ -143,6 +143,9 @@ dart_code_metrics:
     - avoid-nested-shorthands
     # Enable with the next release
     # - avoid-complex-conditions
+    # - avoid-unassigned-local-variable
+    # - avoid-disposing-late-fields
+    # - prefer-correct-static-icon-provider
 
     # Code simplification
     - avoid-redundant-async
@@ -184,6 +187,8 @@ dart_code_metrics:
     - prefer-shorthands-with-constructors
     # Enable with the next release
     # - avoid-immediately-invoked-functions
+    # - avoid-unnecessary-parentheses
+    # - prefer-non-nulls
 
     # Style
     - prefer-declaring-const-constructor

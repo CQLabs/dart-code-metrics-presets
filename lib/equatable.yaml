@@ -3,3 +3,4 @@ dart_code_metrics:
     - extend-equatable
     - list-all-equatable-fields
     - prefer-equatable-mixin
+    - add-equatable-props

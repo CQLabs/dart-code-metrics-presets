@@ -57,3 +57,5 @@ dart_code_metrics:
     - prefer-constrained-box-over-container
     - prefer-void-callback
     - prefer-async-callback
+    - avoid-disposing-late-fields
+    - prefer-correct-static-icon-provider

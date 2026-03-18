@@ -3,6 +3,7 @@
 ## 2.30.0
 
 - feat: add new rules.
+- docs: add new preset to README.
 
 ## 2.29.0
 

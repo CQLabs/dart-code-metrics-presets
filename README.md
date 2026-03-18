@@ -12,20 +12,21 @@ This repository contains a list of predefined DCM presets for lints:
 - **Recommended:** contains recommended Dart and Flutter rules (with an emphasis on finding errors).
 - **Dart:** contains all lint rules applicable to any Dart app.
 - **Flutter:** contains all lint rules applicable to any Flutter app.
-- **Flame:** contains all lint rules for the Flame package.
-- **Provider:** contains all lint rules for the Provider package.
-- **Bloc:** contains all lint rules for the Bloc package.
-- **Riverpod:** contains all lint rules for the Riverpod package.
-- **Equatable:** contains all lint rules for the Equatable package.
-- **Patrol:** contains all lint rules for the Patrol package.
-- **FakeAsync:** contains all lint rules for the FakeAsync package.
-- **GetIt:** contains all lint rules for the GetIt package.
-- **FlutterHooks:** contains all lint rules for the FlutterHooks package.
-- **FirebaseAnalytics:** contains all lint rules for the FirebaseAnalytics package.
-- **GetX:** contains all lint rules for the GetX package.
-- **Intl:** contains all lint rules for the Intl package.
-- **EasyLocalization:** contains all lint rules for the EasyLocalization package.
 - **Pub:** contains all lint rules for linting the `pubspec.yaml` files.
+- **Flame:** contains all lint rules for the [Flame package](https://pub.dev/packages/flame).
+- **Provider:** contains all lint rules for the [Provider package](https://pub.dev/packages/provider).
+- **Bloc:** contains all lint rules for the [Bloc package](https://pub.dev/packages/bloc).
+- **Riverpod:** contains all lint rules for the [Riverpod package](https://pub.dev/packages/riverpod).
+- **Equatable:** contains all lint rules for the [Equatable package](https://pub.dev/packages/equatable).
+- **Patrol:** contains all lint rules for the [Patrol package](https://pub.dev/packages/patrol).
+- **FakeAsync:** contains all lint rules for the [FakeAsync package](https://pub.dev/packages/fake_async).
+- **Mocktail:** contains all lint rules for the [Mocktail package](https://pub.dev/packages/mocktail).
+- **GetIt:** contains all lint rules for the [GetIt package](https://pub.dev/packages/get_it).
+- **FlutterHooks:** contains all lint rules for the [FlutterHooks package](https://pub.dev/packages/flutter_hooks).
+- **FirebaseAnalytics:** contains all lint rules for the [FirebaseAnalytics package](https://pub.dev/packages/firebase_analytics).
+- **GetX:** contains all lint rules for the [GetX package](https://pub.dev/packages/get).
+- **Intl:** contains all lint rules for the [Intl package](https://pub.dev/packages/intl).
+- **EasyLocalization:** contains all lint rules for the [EasyLocalization package](https://pub.dev/packages/easy_localization).
 
 and for metrics:
 

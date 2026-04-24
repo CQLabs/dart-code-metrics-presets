@@ -335,3 +335,12 @@ dart_code_metrics:
     # - avoid-throw # explicitly disabled
     - avoid-unnecessary-parentheses
     - prefer-non-nulls
+    - avoid-labels
+    - prefer-assert-initializers-first
+    - initializers-ordering
+    - require-atomic-async-updates
+    - newline-before-throw
+    - newline-before-break
+    - newline-before-continue
+    - max-statements
+    # - avoid-dot-shorthands # explicitly disabled

@@ -146,6 +146,8 @@ dart_code_metrics:
     # - avoid-unassigned-local-variable
     # - avoid-disposing-late-fields
     # - prefer-correct-static-icon-provider
+    # - require-atomic-async-updates
+    # - always-pass-global-key
 
     # Code simplification
     - avoid-redundant-async
@@ -195,3 +197,5 @@ dart_code_metrics:
     - prefer-single-widget-per-file
     - prefer-prefixed-global-constants
     - prefer-correct-callback-field-name
+    # Enable with the next release
+    # - keep-state-below-its-widget

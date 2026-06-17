@@ -61,3 +61,5 @@ dart_code_metrics:
     - prefer-correct-static-icon-provider
     - keep-state-below-its-widget
     - always-pass-global-key
+    - avoid-unrestricted-javascript
+    - avoid-unrestricted-navigation

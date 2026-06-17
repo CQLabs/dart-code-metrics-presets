@@ -148,6 +148,12 @@ dart_code_metrics:
     # - prefer-correct-static-icon-provider
     # - require-atomic-async-updates
     # - always-pass-global-key
+    # - avoid-unrestricted-javascript
+    # - avoid-unrestricted-navigation
+    # - avoid-unmodified-loop-condition
+    # - prefer-random-secure
+    # - avoid-sensitive-query-params
+    # - avoid-duplicate-factories
 
     # Code simplification
     - avoid-redundant-async
@@ -191,6 +197,9 @@ dart_code_metrics:
     # - avoid-immediately-invoked-functions
     # - avoid-unnecessary-parentheses
     # - prefer-non-nulls
+    # - prefer-private-named-parameters
+    # - prefer-initializing-formals
+    # - avoid-unnecessary-factory
 
     # Style
     - prefer-declaring-const-constructor

@@ -344,3 +344,10 @@ dart_code_metrics:
     - newline-before-continue
     - max-statements
     # - avoid-dot-shorthands # explicitly disabled
+    - prefer-private-named-parameters
+    - prefer-initializing-formals
+    - avoid-unmodified-loop-condition
+    - prefer-random-secure
+    - avoid-sensitive-query-params
+    - avoid-unnecessary-factory
+    - avoid-duplicate-factories

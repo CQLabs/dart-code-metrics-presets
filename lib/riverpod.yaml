@@ -13,3 +13,8 @@ dart_code_metrics:
     - avoid-nullable-async-value-pattern
     - use-ref-and-state-synchronously
     - avoid-assigning-notifiers
+    - prefer-single-notifier-per-file
+    - prefer-riverpod-provider-suffix
+    - prefer-riverpod-notifier-suffix
+    - prefer-correct-notifier-file-name
+    - prefer-correct-provider-file-name
